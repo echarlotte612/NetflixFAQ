@@ -1,0 +1,12 @@
+div h4, img{
+    cursor: pointer;
+}
+
+h4:hover {
+    text-decoration: underline;
+    color: rgb(179, 15, 15)
+}
+
+img:hover {
+    filter: hue-rotate(10deg);
+}
